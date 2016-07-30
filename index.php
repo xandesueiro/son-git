@@ -3,6 +3,7 @@ include"header.php";
 ?>
 
 <div class="container">
+	<br>
     <div class="jumbotron">
         <h2>TREINAMENTO GIT - SCHOOL OF NET</h2>
         <ul class="list-group">
@@ -13,8 +14,7 @@ include"header.php";
             <li class="list-group-item">Merges</li>
             <li class="list-group-item">Em estudo....</li>
         </ul>
-    </div>
-</div>
+
 
 <?php
 include"footer.php";
