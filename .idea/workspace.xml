@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="da46c5ee-122a-485a-9017-ac68ab2b9a4f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/UtilClass.php" afterPath="$PROJECT_DIR$/src/UtilClass.php" />
     </list>
     <ignored path="SON_Git.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -186,12 +185,12 @@
       <option name="presentableId" value="Default" />
       <updated>1469931419675</updated>
       <workItem from="1469931424156" duration="123000" />
-      <workItem from="1469931553520" duration="1477000" />
+      <workItem from="1469931553520" duration="1773000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1600000" />
+    <option name="totallyTimeSpent" value="1896000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="0" width="1378" height="744" extended-state="0" />
