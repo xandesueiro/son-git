@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * Class UtilClass
+ *
+ */
 class UtilClass{
 
 	//singleton
