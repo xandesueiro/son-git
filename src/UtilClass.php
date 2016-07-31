@@ -21,13 +21,22 @@ class UtilClass{
 
         return self::$instance;
     }
-	
-	function getDataAtual($formato){
+
+    /**
+     * @param $formato
+     * @return string
+     */
+    function getDataAtual($formato){
 		$data = new DateTime();
+        $data->modify('-1 days'); //so estou colocando -1 dia, pq estava dando um dia a mais do que realmente era: TESTE NO LOCAlHOST
         return $data->format($formato); 
 	}
 
-	function getHoraAtual($formato){
+    /**
+     * @param $formato
+     * @return bool|string
+     */
+    function getHoraAtual($formato){
 		date_default_timezone_set('America/Sao_Paulo');
 		$hora = date($formato); 
 		return $hora;
